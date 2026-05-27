@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Network Diagnostics Report Tool
+Comment=Collect read-only network diagnostics and export Markdown/JSON reports
+Exec=/absolute/path/to/network-diagnostics-report-tool-linux/run.sh
+Path=/absolute/path/to/network-diagnostics-report-tool-linux
+Terminal=false
+Icon=network-wired
+Categories=Utility;
+StartupNotify=true
